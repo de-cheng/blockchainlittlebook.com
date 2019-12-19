@@ -1,12 +1,11 @@
 # 区块链小白书
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
+[李笑来](http://lixiaolai.com)（著）&copy; 2019 / 陈德成 (Fork) &copy; 2019
 
 -----
 
 通过访问 decheng.site，你正在阅读的《区块链小白书》是经过德成 "Fork" 的版本，就是在保留原著全部内容的基础上，加入了德成的一些见解，并丰富了一些内容。
 
-陈德成 (Fork) &copy; 2019
 
 ## 警告
 
