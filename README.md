@@ -221,7 +221,7 @@
 
 > 若是真的有谁能够操纵 51% 的算力，那么他会发现，对他来说，“贡献” 远比 “攻击” 更有利可图。
 
-### 10. 小白如何购买或[免费获取比特币](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc/README.md)
+### 10. 小白如何购买比特币  
 
 目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
 
@@ -247,6 +247,14 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 > 区块链数字资产价格波动巨大，**投资有风险，决策需谨慎！**
 
 另外，对小白来说最靠谱的投资策略是**定投策略** —— 至于具体应该如何操作，请移步[《定投改变命运》（开源第三版）](https://onregularinvesting.com)。
+
+***
+陈德成补充:
+### 11. 小白如何免费获取比特币 
+
+相对于购买比特币有着剧烈的涨跌风险，通过免费获取比特币的参与方式风险就为零了。
+点击查看[免费获取比特币的方式](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc/README.md)。
+***
 
 ## 区块链
 
