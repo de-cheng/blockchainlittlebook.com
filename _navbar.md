@@ -1,1 +1,2 @@
-* [免费获取BTC](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc)
+* [首页](/)
+* [免费获取BTC](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc/README.md)
