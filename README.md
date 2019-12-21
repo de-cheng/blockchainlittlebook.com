@@ -221,7 +221,7 @@
 
 > 若是真的有谁能够操纵 51% 的算力，那么他会发现，对他来说，“贡献” 远比 “攻击” 更有利可图。
 
-### 10. 小白如何购买比特币
+### 10. 小白如何购买或[免费获取比特币](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc/README.md)
 
 目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
 
