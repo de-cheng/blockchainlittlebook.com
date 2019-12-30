@@ -1,6 +1,6 @@
 # 区块链小白书
 
-[李笑来](http://lixiaolai.com)（原著）&copy; 2019 / 陈德成（fork）&copy; 2019
+[李笑来](http://lixiaolai.com)（原著）&copy; 2019 / [陈德成](https://decheng.xyz)（fork）&copy; 2019
 
 -----
 
