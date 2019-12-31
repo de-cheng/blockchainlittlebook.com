@@ -246,8 +246,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 ### 11. 小白如何免费获取比特币 
 
 相对于购买比特币有着剧烈的涨跌风险，通过免费获取比特币的参与方式风险就为零了。
-点击查看[免费获取比特币的方式](https://github.com/de-cheng/blockchainlittlebook.com/blob/master/freebtc/README.md)。
-[免费获取比特币的方式](https://github.com/de-cheng/blockchainlittlebook.com/blob/freebtc)。
+点击查看[免费获取比特币的方式](https://blockchainbook.top/freebtc)。
 
 ***
 
