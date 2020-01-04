@@ -49,7 +49,7 @@ Mixin Messenger 看起来是个聊天软件，但，Mixin Network 为它提供�
 
 > iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
 
-![](/images/miniwallet.png)
+![](https://github.com/de-cheng/blockchainbook.top/images/miniwallet.png)
 
 ### 2.3 设置安全的数字密码
 
@@ -89,7 +89,7 @@ Mixin 与传统银行不一样的地方在于，它是去中心化的，网络�
 
 ### 2.4 加入德成的红包群成为有效用户
 
-首先可以添加德成的微信：cdckql，然后在 Mixin messenger 上搜索 37163725，你就可以找到德成，给德成发送消息“红包群”，德成就会拉你到红包群。
+首先可以添加德成的微信：cdckql，备注“mixin红包”，然后在 Mixin messenger 上搜索 37163725，你就可以找到德成，给德成发送消息“进红包群”，德成就会拉你到红包群。
 
 你会在这个群里收到红包 —— 很可能是你人生的第一笔比特币！
 
