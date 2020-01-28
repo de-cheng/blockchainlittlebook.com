@@ -118,7 +118,7 @@ Mixin 与传统银行不一样的地方在于，它是去中心化的，网络�
 
 ####  2.5.2 TaskWall
 
-TaskWall 是另一个团队开发的能让用户做任务领取BTC的机器人，Mixin ID 是7000103013，填写德成的邀请码：2QN3 ，在Mixin中可以直接[点击这里](https://taskwall.mixin.zone/invite/2QN3)，会有额外的份额抽奖机会，完成里面的小任务，就可以瓜分BTC奖池。
+TaskWall 是Exin团队开发的能让用户做任务领取BTC的机器人，Mixin ID 是7000103013，填写德成的邀请码：2QN3 ，在Mixin中可以直接[点击这里](https://taskwall.mixin.zone/invite/2QN3)，会有额外的份额抽奖机会，完成里面的小任务，就可以瓜分BTC奖池。
 
 ## 3. How to get BTC dividend
 你如何通过邀请朋友获得“加速BTC”的分红?
