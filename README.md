@@ -220,7 +220,17 @@
 
 > 若是真的有谁能够操纵 51% 的算力，那么他会发现，对他来说，“贡献” 远比 “攻击” 更有利可图。
 
-### 10. 小白如何购买比特币  
+***
+陈德成补充:
+
+### 10. 小白如何免费获取比特币
+
+相对于购买比特币有着剧烈的涨跌风险，通过免费获取比特币的参与方式风险就为零了。
+点击查看[免费获取比特币的方式](https://blockchainbook.top/freebtc)。
+
+***
+
+### 11. 小白如何购买比特币  
 
 目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
 
@@ -251,11 +261,6 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 陈德成补充:
 
 关于《定投改变命运》一书，德成的相关心得都写在这了：“[为什么普通人错过“定投践行群”的损失可能无限大？](https://decheng.xyz/#/boxgroup/)”。
-
-### 11. 小白如何免费获取比特币
-
-相对于购买比特币有着剧烈的涨跌风险，通过免费获取比特币的参与方式风险就为零了。
-点击查看[免费获取比特币的方式](https://blockchainbook.top/freebtc)。
 
 ***
 
@@ -538,6 +543,7 @@ git push -u origin master
 ## 关于作者
 
 李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+陈德成，终身成长者。[https://decheng.xyz](https://decheng.xyz) · [de-cheng@github](https://github.com/de-cheng)
 
 ### 出版书籍
 
