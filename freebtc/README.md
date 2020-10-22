@@ -1,6 +1,6 @@
 # 为什么你要拥有BTC(比特币)？如何获取你人生的第一笔免费的比特币？
 
-如果你是通过链接<https://blockchainbook.top/freebtc/#/>阅读本文，可点击左下角的“三横”图标查看目录。
+可点击左下角的“三横”图标查看目录。如果你是在github网站阅读，点击链接<https://blockchainbook.top/freebtc/#/>阅读体验更好。
 
 ## 1. 比特币对普通人来说意味着什么
 
