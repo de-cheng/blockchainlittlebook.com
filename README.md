@@ -543,9 +543,10 @@ git push -u origin master
 ## 关于作者
 
 李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+
 陈德成，终身成长者。[https://decheng.xyz](https://decheng.xyz) · [de-cheng@github](https://github.com/de-cheng)
 
-### 出版书籍
+### 李笑来出版书籍
 
 > * TOEFL 核心词汇 21 天突破
 > * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
