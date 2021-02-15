@@ -36,20 +36,31 @@ Mixin Messenger 看起来是个聊天软件，但，Mixin Network 为它提供�
 
 为了获得可能是你人生的第一笔免费的比特币，你得有个很方便的数字资产钱包，不然的话，你要把你免费获得的比特币放在哪儿呢？
 
-### 2.2 下载安装 Mixin Messenger
+### 2.2 下载安装APP
 
-请根据您自己设备类型选择相应的下载方式：
+安装 Mixin Messenger 或 新生大讲堂APP(早期叫学习APP)，为什么两者都行？因为这是开源软件，功能基本相同，只是由不同的团队运营。
 
-> * iOS
->   * 国内用户，在 iTunes [下载 Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)
->   * 国外用户，在 iTunes [下载 Mixin Messenger](https://apps.apple.com/app/mixin/id1322324266)
-> * Android
->   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
->   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
+### Mixin Messenger
 
-注意：
+（已经安装过就跳过，到下一步）
 
-> iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
+下载方式：
+
+> + iOS
+>  *  国内用户，在 iTunes 下载 Mixin 畅聊版
+   >> iOS 国内用户下载的 Mixin 畅聊版 需要添加小钱包机器人（ID: 7000101425）才能使用数字资产收发存储功能。
+>  *  国外用户，在 iTunes 下载 Mixin
+
+> + Android
+>  * 国内用户，在腾讯应用宝下载，或者小米、锤子应用商店
+   >> 或者使用这个链接下载：https://download.exin.one/#/
+>  * 国外用户，在 Google Play Store 下载
+
+如果以上方式都不能成功，则安装后面的 新生大讲堂APP
+
+### 新生大讲堂APP(学习APP)
+
+使用浏览器打开<https://www.firesbox.com/app/>
 
 安装和使用 Mixin Messenger 遇到任何问题，欢迎联系德成交流解决，德成微信号：cdckql
 
